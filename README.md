@@ -1,37 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate 2nd-year CS student deeply invested in frontend web development and currently working on DSA.</h3>
+ℌ𝔈𝔜! ℌ𝔦, ℑ'𝔪 ℌ𝔞𝔯𝔰𝔥𝔳𝔞𝔯𝔡𝔥𝔞𝔫 𝔤𝔲𝔭𝔱𝔞 𝔄 𝔖𝔬𝔭𝔥𝔬𝔪𝔬𝔯𝔢 𝔖𝔱𝔲𝔡𝔢𝔫𝔱 𝔞𝔫𝔡 𝔞 𝔭𝔞𝔰𝔰𝔦𝔬𝔫𝔞𝔱𝔢 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 𝔉𝔯𝔬𝔪 ℑ𝔫𝔡𝔦𝔞,𝔢𝔵𝔭𝔩𝔬𝔯𝔦𝔫𝔤 𝔱𝔥𝔢 𝔴𝔬𝔯𝔩𝔡 𝔬𝔣 𝓦𝓮𝓫. ℑ 𝔩𝔬𝔳𝔢 𝔅𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔠𝔞𝔷𝔶 𝔖𝔱𝔲𝔣𝔣 𝔉𝔯𝔬𝔪 𝔚𝔦𝔫𝔡𝔬𝔴 𝔞 𝔲𝔰𝔦𝔫𝔤 𝔴𝔢𝔟 𝔞𝔫𝔡 𝔫𝔞𝔱𝔦𝔳𝔢 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔦𝔢𝔰! ℑ 𝔐𝔦𝔞𝔦𝔫𝔩𝔶 𝔟𝔲𝔦𝔩𝔡 𝔭𝔯𝔬𝔡𝔲𝔠𝔱𝔰 𝔦𝔫 𝔱𝔥𝔢 𝔑𝔞𝔱𝔦𝔳𝔢 𝔞𝔭𝔭 𝔰𝔭𝔞𝔠𝔢 𝔞𝔫𝔡 𝔞 "𝔩𝔬𝔱" 𝔢𝔵𝔭𝔢𝔯𝔦𝔪𝔢𝔫𝔱𝔰 𝔴𝔦𝔱𝔥 𝔱𝔥𝔢 𝔩𝔞𝔱𝔢𝔰𝔱 𝔱𝔢𝔠𝔥 𝔦𝔫 𝔉𝔯𝔬𝔫𝔱𝔢𝔫𝔡 𝔈𝔠𝔬𝔰𝔶𝔰𝔶𝔱𝔢𝔪.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshh0710&label=Profile%20views&color=0e75b6&style=flat" alt="harshh0710" /> </p>
-
-- 🌱 I’m currently learning **Javascript,java**
-
-- 📫 How to reach me **harshvardhangupta561@gmail.com**
-
-- ⚡ Fun fact **i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshh0710&show_icons=true&locale=en&layout=compact" alt="harshh0710" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshh0710&show_icons=true&locale=en" alt="harshh0710" /></p>
-
-
-<!--
-**harshh0710/harshh0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 ℌ𝔦, ℑ’𝔪 @harshh0710
+👀 ℑ’𝔪 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱𝔢𝔡 𝔦𝔫 Problem solving,Full stack devlopment
+🌱 ℑ’𝔪 𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔩𝔢𝔞𝔯𝔫𝔦𝔫𝔤 ℭ𝔭𝔭 𝔄𝔫𝔡 𝔇𝔖𝔄
+💞️ ℑ’𝔪 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 𝔱𝔬 𝔠𝔬𝔩𝔩𝔞𝔟𝔬𝔯𝔞𝔱𝔢 𝔬𝔫 𝔚𝔢𝔟 𝔭𝔯𝔬𝔧𝔢𝔠𝔱𝔰
+📫 ℌ𝔬𝔴 𝔱𝔬 𝔯𝔢𝔞𝔠𝔥 𝔪𝔢 harshvardhangupta561@gmail.com
+𝔖𝔎ℑ𝔏𝔏𝔖 ℭ++, 𝔍𝔞𝔳𝔞/ 𝔍𝔞𝔳𝔞𝔰𝔠𝔯𝔦𝔭𝔱 , 𝔚𝔢𝔟 𝔡𝔢𝔳𝔢𝔩𝔬𝔭𝔪𝔢𝔫𝔱 , 𝔐𝔜𝔖𝔔𝔏 , 𝔅𝔬𝔬𝔱𝔰𝔱𝔯𝔞𝔭(𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔩𝔢𝔞𝔯𝔫𝔦𝔫𝔤) 𝔘𝔖𝔈𝔖 𝔙ℑ𝔖𝔘𝔄𝔏 𝔖𝔗𝔘𝔇ℑ𝔒 , ℑ𝔫𝔱𝔢𝔩𝔩𝔦𝔧 ℑ𝔡𝔢𝔞.
