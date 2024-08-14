@@ -2,7 +2,7 @@
 
 *👋 Hi, I’m @harshh0710*  
 *👀 I’m interested in Problem solving, Frontend development.*  
-*🌱 I’m currently learning C++ and DSA*  
+*🌱 I’m currently learning DSA in C++*  
 *💞️ I’m looking to collaborate on Web projects*  
 *📫 How to reach me: harshvardhangupta561@gmail.com*  
 *SKILLS: C++, Java, Web development, MySQL*  
