@@ -5,5 +5,5 @@
 *🌱 I’m currently learning DSA in C++*  
 *💞️ I’m looking to collaborate on Web projects*  
 *📫 How to reach me: harshvardhangupta561@gmail.com*  
-*SKILLS: C++, Javasript, Web development, MySQL*  
+*SKILLS: C++, Javascript, Web development, MySQL*  
 *USES: VISUAL STUDIO*
